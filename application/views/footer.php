@@ -1,0 +1,1 @@
+<footer>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis amet excepturi in quidem, tenetur perferendis repellat et accusamus, illo porro aspernatur, facilis minima dolorem. Quis dignissimos recusandae autem nobis enim.</footer>
