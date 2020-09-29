@@ -17,6 +17,7 @@
     <div class="container">
 
         <a href="<?php echo site_url('home/create') ?>" class="btn btn-primary">Add New Record</a>
+        <div class="mb-2"></div>
 
         <table class="table">
             <thead>
